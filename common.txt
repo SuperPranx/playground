@@ -6,3 +6,4 @@ In the meantime an emergency hotfix comes in, directly on master,
 and it will go ahead of both 01's and 02's commits.
 
 - User 01 wants to add this change.
+- User 02 also wants to make changes.
