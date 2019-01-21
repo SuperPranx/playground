@@ -2,4 +2,7 @@ This is a file with common changes, placed here to be used for causing merge con
 ...
 Initial commit version ends with this line.
 
-In the meantime an emergency hotfix comes in, directly on master, and it will go ahead of both 01's and 02's commits.
+In the meantime an emergency hotfix comes in, directly on master,
+and it will go ahead of both 01's and 02's commits.
+
+- User 01 wants to add this change.
