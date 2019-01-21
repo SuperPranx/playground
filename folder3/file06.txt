@@ -1,1 +1,2 @@
-Adding modifications for issue-002.
+Adding modifications for issue-001.
+Modifications for issue-002, altered.
