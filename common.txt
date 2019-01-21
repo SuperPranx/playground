@@ -1,0 +1,3 @@
+This is a file with common changes, placed here to be used for causing merge conflicts.
+...
+Initial commit version ends with this line.
