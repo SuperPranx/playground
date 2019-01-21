@@ -2,3 +2,5 @@ Update 001-u01 on file01 for release 1.0.0
 - This came in second: Update 001-u02 on file01 for release 1.0.0
 
 Someone commited directly on master...
+
+Version set to 1.0.0

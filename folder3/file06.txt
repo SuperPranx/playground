@@ -1,2 +1,4 @@
 Adding modifications for issue-001.
 Modifications for issue-002, altered.
+
+Version set to 1.0.0
